@@ -59,6 +59,7 @@ The goal of LunoBite is to demonstrate practical frontend development skills thr
    ## Prototype
 
 Figma Design:
+
 https://cape-smooth-71416946.figma.site/
 
 ## 👩‍💻 Developer
