@@ -56,6 +56,11 @@ The goal of LunoBite is to demonstrate practical frontend development skills thr
 - Add live order tracking and delivery updates.
 - Improve accessibility and test the experience across devices.
 
+   ## Prototype
+
+Figma Design:
+https://cape-smooth-71416946.figma.site/
+
 ## 👩‍💻 Developer
 
 Created as a personal web development project to explore frontend development, user experience design, and interactive web applications.
