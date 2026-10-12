@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">LunoBite app icon</title>
+  <rect width="512" height="512" rx="132" fill="#6C3FC5"/>
+  <circle cx="256" cy="236" r="146" fill="#FAF9F6"/>
+  <circle cx="318" cy="174" r="122" fill="#6C3FC5"/>
+  <circle cx="174" cy="305" r="23" fill="#CDB8FF"/>
+  <path d="M136 250h164c19 0 34 15 34 34v20H102v-20c0-19 15-34 34-34Zm-20 77h204l-22 60H138l-22-60Z" fill="#CDB8FF"/>
+  <circle cx="302" cy="123" r="27" fill="#FAF9F6"/>
+</svg>
